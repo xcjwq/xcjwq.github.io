@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Muhammad Fairuz](me.png)
+![Muhammad Fairuz](/me.png)
 
 Welcome to my blog, a digital space where I share my knowledge, insights, and experiences as a cyber security student and professional. My name is Muhammad Fairuz and I am currently pursuing my degree in cyber security at Politeknik Negeri Batam. My background in mechatronics engineering and my EC-Council Certified Incident Handler certification have given me a strong foundation in understanding the intricacies of cybersecurity and technology.
 
