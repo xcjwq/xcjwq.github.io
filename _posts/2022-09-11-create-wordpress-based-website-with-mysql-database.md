@@ -26,19 +26,19 @@ categories: ["3rd Semester", "Database Security"]
 ![6](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/6.png)
 7.	Restart Apache’s service  
 ![7](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/7.png)
-8.	Open a browser, and type: [localhost/wordpress](localhost/wordpress), then the introductory will begin  
+8.	Open a browser, and type: localhost/wordpress, then the introductory will begin  
 ![8](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/8.png)
 9.	Fill the database credentials and else  
 ![9](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/9.png)
-10. If you encountering database problem e.g., database not found; create a new database on [phpMyAdmin](localhost/phpmyadmin) with the same credential you used when running setup from wordpress  
+10. If you encountering database problem e.g., database not found; create a new database on localhost/phpmyadmin with the same credential you used when running setup from wordpress  
 ![10](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/10.png)  
 ![10-2](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/10-2.png)
 11. Run the setup, type the username and else  
 ![11](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/11.png)
 12. Finish the setup  
 ![12](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/12.png)
-13. Run the web by accessing: [localhost/wordpress](localhost/wordpress)  
+13. Run the web by accessing: localhost/wordpress  
 ![13](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/13.png)
-14. And if you want further costumization, go for: [localhost/wordpress/wp-admin](localhost/wordpress/wp-admin), then you can continue  
+14. And if you want further costumization, go for: localhost/wordpress/wp-admin, then you can continue  
 ![14](https://github.com/wyebit/wyebit.github.io/blob/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/1.png)
 15. Voila!:clap:
