@@ -3,7 +3,7 @@ layout: post
 title: Create Wordpress Based Website with MySQL Database
 date: 2022-09-11
 categories: ["3rd Semester", "Database Security"]
-img_path: https://github.com/wyebit/wyebit.github.io/tree/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/
+img_path: https:///github.com/wyebit/wyebit.github.io/tree/main/_posts/media/2022-09-11-create-wordpress-based-website-with-mysql-database/
 ---
 
 ## Prerequisites:
