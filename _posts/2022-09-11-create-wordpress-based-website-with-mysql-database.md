@@ -42,4 +42,4 @@ img_path: https:///raw.githubusercontent.com/wyebit/wyebit.github.io/main/_posts
 ![13](13.png)
 14. And if you want further costumization, go for: localhost/wordpress/wp-admin, then you can continue  
 ![14](14.png)
-15. Voila!:clap:
+15. Voila!👏
