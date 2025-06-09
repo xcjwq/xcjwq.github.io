@@ -112,4 +112,9 @@
   {% unless site.theme_mode %}
     {% include mode-toggle.html %}
   {% endunless %}
+
+  <link rel="alternate"
+        type="application/atom+xml"
+        title="{{ site.title }}"
+        href="{{ '/feed.xml' | relative_url }}">
 </head>
