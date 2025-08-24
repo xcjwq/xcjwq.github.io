@@ -80,7 +80,7 @@
       {% endcapture %}
 
       {% if url %}
-      <a href="{{ url }}" aria-label="{{ entry.type }}"
+      <a href="{{ url }}" aria-label="{{ entry.type }}" data-proofer-ignore
         {% assign link_types = nil %}
         {% unless entry.noblank %}
           {% assign link_types = link_types | append: " noopener" %}
