@@ -3,9 +3,11 @@
 cdns:
   # Google Fonts
   - url: https://fonts.googleapis.com
+    args: data-proofer-ignore
   - url: https://fonts.gstatic.com
-    args: crossorigin
+    args: 'crossorigin data-proofer-ignore'
   - url: https://fonts.googleapis.com
+    args: data-proofer-ignore
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
 
