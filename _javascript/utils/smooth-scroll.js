@@ -34,7 +34,7 @@ $(function () {
             let isMobileViews = $topbarTitle.is(":visible");
             let isPortrait = $(window).width() < $(window).height();
 
-            if (typeof $target === "undefined") {
+            if ($target.length === 0) {
                 return;
             }
 
@@ -45,7 +45,7 @@ $(function () {
             }
 
             let curOffset = $(window).scrollTop();
-            let destOffset = $target.offset().top -= REM / 2;
+            let destOffset = $target.offset().top - REM / 2;
 
             if (destOffset < curOffset) { // scroll up
                 ScrollHelper.hideTopbar();
